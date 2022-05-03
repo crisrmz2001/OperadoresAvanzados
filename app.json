@@ -1,0 +1,38 @@
+[
+  {
+    "precio": 5999,
+    "id": 1,
+    "titulo": "Memoria GeiL DDR4 8GB 3000MHz EVO POTENZA RED",
+    "img": "./multimedia/memoria.jpg"
+  },
+  {
+    "precio": 5770,
+    "id": 2,
+    "titulo": "Intel Core i7 10700K 5.1GHz",
+    "img": "./multimedia/procesador.jpg"
+  },
+  {
+    "precio": 56000,
+    "id": 3,
+    "titulo": "Radeon RX 6500 XT Black 4GB GDDR6",
+    "img": "./multimedia/gpu.jpg"
+  },
+  {
+    "precio": 5320,
+    "id": 4,
+    "titulo": "Kolink Inspire K5 RGB ATX",
+    "img": "./multimedia/gabinete.jpg"
+  },
+  {
+    "precio": 39500,
+    "id": 5,
+    "titulo": "ASUS ROG STRIX 850G 80 Plus Gold 850W",
+    "img": "./multimedia/fuente.jpg"
+  },
+  {
+    "precio": 7500,
+    "id": 6,
+    "titulo": "SSD M.2 ADATA 256GB XPG S11 Pro 3D NAND 3500MB/s NVME PCI-E X4",
+    "img": "./multimedia/solido.jpg"
+  }
+]
